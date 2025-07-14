@@ -1,0 +1,20 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
+venv/
+env/
+
+# Ignore database file
+library.db
+
+# Ignore Excel/PDF exports
+*.xlsx
+*.pdf
+
+# Ignore OS & editor files
+.DS_Store
+Thumbs.db
+.idea/
